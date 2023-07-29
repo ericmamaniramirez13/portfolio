@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Life-folio/static/css/main.21b7164d.css",
+    "main.js": "/Life-folio/static/js/main.d84f11ec.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Life-folio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project.jpg": "/Life-folio/static/media/project.0b9bf4b1eef0f83395b2.jpg",
+    "static/media/project1.png": "/Life-folio/static/media/project1.89b560a580e512e31c43.png",
+    "static/media/resume.pdf": "/Life-folio/static/media/resume.63b11a1845caad88751e.pdf",
+    "static/media/amazon.jpg": "/Life-folio/static/media/amazon.34d099e203a5b5f3afaa.jpg",
+    "static/media/googlecolab.jpg": "/Life-folio/static/media/googlecolab.f5d0c682cd670fca8ca5.jpg",
+    "static/media/education.png": "/Life-folio/static/media/education.3682fa5ac4f8df3fd30d.png",
+    "index.html": "/Life-folio/index.html",
+    "main.21b7164d.css.map": "/Life-folio/static/css/main.21b7164d.css.map",
+    "main.d84f11ec.js.map": "/Life-folio/static/js/main.d84f11ec.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Life-folio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b7164d.css",
+    "static/js/main.d84f11ec.js"
+  ]
+}
