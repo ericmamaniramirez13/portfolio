@@ -1,11 +1,11 @@
 import Google from "../assets/google.jpg";
 import Verizon from "../assets/verizon.jpg";
-import ProjectImg from "../assets/project.jpg";
 import Amazon from "../assets/amazon.jpg";
 import mrcooper from "../assets/mrcooper.jpg";
 import byui from "../assets/byui.jpg";
 import project1 from "../assets/project1.png"
 import project2 from "../assets/googlecolab.jpg"
+import cert1 from "../assets/byuidiploma.jpg"
 interface Map {
   [key: string]: string | undefined;
 }
@@ -31,4 +31,8 @@ export enum Constants {
 export const projectImage: Map = {
   "mathmobileapplication": project1,
   "machinelearningtextgeneratorauthorsstyle": project2
-};
+}
+export const certfications: Map = {
+  "byuidiploma" : cert1
+}
+;

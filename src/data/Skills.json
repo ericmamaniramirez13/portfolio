@@ -1,20 +1,17 @@
 {
   "softSkills": [
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name"
+    "Communication",
+    "Teamwork",
+    "Adaptability",
+    "Problem-solving",
+    "Creativity",
+    "Time management"
   ],
   "hardSkills": [
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name"
+    "Object Oriented Programming",
+    "React/Angular",
+    "GCP/AWS/Azure",
+    "Java/JS/Python/C++",
+    "Android Studio/VScode/IntelliJ"
   ]
 }
