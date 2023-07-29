@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.21b7164d.css",
-    "main.js": "/portfolio/static/js/main.a5208759.js",
+    "main.js": "/portfolio/static/js/main.4002a374.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/project.jpg": "/portfolio/static/media/project.0b9bf4b1eef0f83395b2.jpg",
+    "static/media/byuidiploma.jpg": "/portfolio/static/media/byuidiploma.c6cd07b16169db4271ea.jpg",
     "static/media/project1.png": "/portfolio/static/media/project1.89b560a580e512e31c43.png",
     "static/media/resume.pdf": "/portfolio/static/media/resume.63b11a1845caad88751e.pdf",
     "static/media/amazon.jpg": "/portfolio/static/media/amazon.34d099e203a5b5f3afaa.jpg",
@@ -11,11 +12,11 @@
     "static/media/education.png": "/portfolio/static/media/education.3682fa5ac4f8df3fd30d.png",
     "index.html": "/portfolio/index.html",
     "main.21b7164d.css.map": "/portfolio/static/css/main.21b7164d.css.map",
-    "main.a5208759.js.map": "/portfolio/static/js/main.a5208759.js.map",
+    "main.4002a374.js.map": "/portfolio/static/js/main.4002a374.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21b7164d.css",
-    "static/js/main.a5208759.js"
+    "static/js/main.4002a374.js"
   ]
 }
