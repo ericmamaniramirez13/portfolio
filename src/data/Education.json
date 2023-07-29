@@ -1,26 +1,18 @@
 [
   {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year - year",
-    "specialization": "major name",
-    "score": "9 CGPA"
+    "name": "Brigham Young University - Idaho",
+    "location": "Rexburg, ID",
+    "course": "BS",
+    "span": "2021 - 2024",
+    "specialization": "Computer Science",
+    "score": "3.91"
   },
   {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year-year",
-    "specialization": "major name",
-    "score": "90 %"
-  },
-  {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year-year",
-    "specialization": "",
-    "score": "90 %"
+    "name": "Brigham Young University - Idaho",
+    "location": "Rexburg, ID",
+    "course": "AS",
+    "span": "2021 - 2022",
+    "specialization": "General Studies",
+    "score": "3.91"
   }
 ]

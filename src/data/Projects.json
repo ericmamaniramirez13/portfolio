@@ -1,14 +1,14 @@
 [
   {
-    "name": "Project name 1",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur",
-    "sourceCode": "",
+    "name": "Math Mobile Application",
+    "description": "Designed the app through the Android Studio Platform and the Java language Applied Object-Oriented Programming principles to manage the many features of the app",
+    "sourceCode": "https://github.com/josh-wassum/Study-Flashcards",
     "demoLink": ""
   },
   {
-    "name": "Project name 2",
+    "name": "Machine Learning (Text Generator Authors Style)",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur",
-    "sourceCode": "",
+    "sourceCode": "https://colab.research.google.com/gist/ericmamaniramirez13/50afda4e6635bf04d8b8f6cd5c15a7a2/word_generator_with_punctuation.ipynb?fbclid=IwAR1UpalctsMCvqGV6YpOuVUkaMH5peV2Uyhs9Ulyr01omL6JqqTH-Uky7Wc#scrollTo=KpyHjSPy2CFM",
     "demoLink": ""
   }
 ]

@@ -97,30 +97,7 @@ export const Footer = () => {
       </Box>
       <Box className="divider" />
       <Box className="creator">
-        2022 - Template created by{" "}
-        <a rel="noreferrer" href="https://github.com/harini24" target="_blank">
-          Harini Sivakumar
-        </a>
-      </Box>
-      <Box className="actions">
-        <CustomButtonFooter>
-          <a
-            rel="noreferrer"
-            href="https://github.com/harini24/Life-folio/fork"
-            target="_blank"
-          >
-            Fork
-          </a>
-        </CustomButtonFooter>
-        <CustomButtonFooter>
-          <a
-            rel="noreferrer"
-            href="https://github.com/harini24/Life-folio"
-            target="_blank"
-          >
-            Star
-          </a>
-        </CustomButtonFooter>
+      ©2023 .:|:. Eric Mamani .:|:. BYUI
       </Box>
     </FooterContainer>
   );

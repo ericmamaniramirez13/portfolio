@@ -96,7 +96,8 @@ const Experience = ({ experience }: Prop) => {
     <Wrapper>
       <CompanyWrapper>
         <div className="logo">
-          <img src={logo[company.toLowerCase()]} alt="logo" />
+          <img src={logo[company.toLowerCase().replace(".","").replace(/ /g, "").replace("-", "")]} 
+          alt="logo" />
         </div>
         <div className="employment-info">
           <div className="name bold">{company}</div>

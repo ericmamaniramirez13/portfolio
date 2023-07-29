@@ -1,41 +1,56 @@
 [
   {
-    "span": "Year Month -  current",
-    "company": "Google",
-    "linkedIn": "https://www.linkedin.com/company/google/",
+    "span": "May 2023 - July 2023",
+    "company": "Amazon",
+    "linkedIn": "https://www.linkedin.com/company/amazon/",
     "twitter": "https://twitter.com/googleindia",
-    "location": "City, State",
+    "location": "Tempe, Arizona",
     "progress": [
       {
-        "role": "Role Name",
-        "span": "Year Month - Current",
+        "role": "Software Development Engineer Intern",
+        "span": "",
         "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
-          "In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
-        ]
-      },
-      {
-        "role": "Role Name",
-        "span": "Year Month - Year Month",
-        "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
+          "Completed Amazon SDE bootcamp",
+          "Created a new UI for customers to input information to validate deals (following specific criteria) and output why requests cannot be validated in case the deal is not valid",
+          "Improved knowledge in AWS, ReactJS, Git, Angular, Java, Javascript, OOP, Bootstrap, JSX, API"
+
         ]
       }
     ]
   },
   {
-    "span": "Year July - Year Month",
-    "company": "Google",
-    "location": "City, State",
+    "span": "2022 June - 2022 August",
+    "company": "Mr. Cooper",
+    "location": "Coppell, Texas",
     "linkedIn": "https://www.linkedin.com/company/google/",
     "twitter": "https://twitter.com/googleindia",
     "progress": [
       {
-        "role": "Role Name",
-        "span": "Year Month - Year Month",
+        "role": "DevOps Engineer Intern",
+        "span": "",
         "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus",
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
+          "Improved at using Terraform, GO, OOP, GitHub, Git, Pipelines, Docker, Python",
+          "Learned and researched different Cloud Providers Google Cloud Platform, Amazon Web Services, and Microsoft Azure"
+
+        ]
+      }
+    ]
+  },
+  {
+    "span": "2022 September - Current",
+    "company": "Brigham Young University - Idaho",
+    "location": "Rexburg, ID",
+    "linkedIn": "https://www.linkedin.com/company/google/",
+    "twitter": "https://twitter.com/googleindia",
+    "progress": [
+      {
+        "role": "JavaScript/Calculus 2 Tutor",
+        "span": "",
+        "descriptions": [
+          "Scheduled time to keep deadlines for grading assignments",
+          "Developed skill to teach hard concepts in an easy way",
+          "Asked questions that led to solutions"
+
         ]
       }
     ]

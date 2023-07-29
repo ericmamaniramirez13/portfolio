@@ -73,7 +73,7 @@ export const Project = ({ project }: Prop) => {
       </InfoWrapper>
       <ImageBox>
         <img
-          src={projectImage[name.toLowerCase()] || ProjectImg}
+          src={projectImage[name.toLowerCase().replace(/ /g, "").replace("’", "").replace("(", "").replace(")", "")] || ProjectImg}
           alt="project"
         />
       </ImageBox>
